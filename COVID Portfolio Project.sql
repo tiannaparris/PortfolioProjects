@@ -89,12 +89,12 @@ ORDER BY 1,2
 -- Total Population vs Vaccinations
 -- Percentage of Population that has received at least one Covid Vaccine
 
-SELECT dea.continent, dea.location, dea.date, dea.population, vac.new_vaccinations
+SELECT dea.continent, dea.location, dea.date, dea.population, vax.new_vaccinations
 , SUM(CONVERT(int,vac.new_vaccinations)) OVER (Partition by dea.Location Order by dea.location, dea.Date) as RollingPeopleVaccinated
 FROM PortfolioProject..CovidDeaths dea
-JOIN PortfolioProject..CovidVaccinations vac
-	ON dea.location = vac.location
-	AND dea.date = vac.date
+JOIN PortfolioProject..CovidVaccinations vax
+	ON dea.location = vax.location
+	AND dea.date = vax.date
 WHERE dea.continent IS NOT NULL
 ORDER BY 2,3
 
