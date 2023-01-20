@@ -23,6 +23,18 @@ FROM SQLPortfolio.dbo.NashvilleHousing
 -- Populate Property Address Data
 
 
+SELECT *
+FROM SQLPortfolio.dbo.NashvilleHousing
+ORDER BY ParcelID
+
+
+SELECT a.ParcelID, a.PropertyAddress, b.ParcelID, b.PropertyAddress, ISNULL(a.PropertyAddress,b.PropertyAddress)
+FROM SQLPortfolio.dbo.NashvilleHousing a
+JOIN SQLPortfolio.dbo.NashvilleHousing b
+	ON a.ParcelID = b.ParcelID
+	AND a.[UniqueID ] <> b.[UniqueID ]
+WHERE a.PropertyAddress IS NULL
+
 UPDATE a
 SET PropertyAddress = ISNULL(a.PropertyAddress,b.PropertyAddress)
 FROM SQLPortfolio.dbo.NashvilleHousing a
@@ -138,14 +150,4 @@ FROM SQLPortfolio.dbo.NashvilleHousing
 
 ALTER TABLE SQLPortfolio.dbo.NashvilleHousing
 DROP COLUMN SaleDate, OwnerAddress, TaxDistrict, PropertyAddress
-
-
-
-
-
-
-
-
-
-
 
