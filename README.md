@@ -12,28 +12,33 @@ In this section I will list data analytics projects briefly describing the techn
 ### Movie Gross Earnings Analysis
 **Code:** [`Python Correlation Project.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Python%20Correlation%20Project.ipynb)
 
-**Description:** There dataset contains a list of movies released between 1980 and 2022.  The records include the title of the moves, it's rating, genre, release date, budget, gross, etc.. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation between budget and gross earnings and hypothesis testing.
+**Description:** The dataset contains a list of movies released between 1980 and 2022.  The records include the title of the moves, it's rating, genre, release date, budget, gross, etc.. The project includes the following steps: data loading, data cleaning and preprocessing, EDA (exploratory data analysis), analyzing correlation between budget and gross earnings and hypothesis testing.
 
 **Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
-**Results:** Python functions to calculate and plot nuget vs gross earning, hypothesis testing, detecting statistically significant result used to determine that Votes and budget have the highest correlation to gross earnings while the company has none.
+**Results:** Python functions to calculate and plot budget vs gross earnings, hypothesis testing, detecting statistically significant result used to determine that Votes and budget have the highest correlation to gross earnings while the company has none.
 
 
 
 
-### Movie Gross Earnings Analysis
-**Code:** [Python Correlation Project.ipynb](https://github.com/tiannaparris/PortfolioProjects/blob/main/Python%20Correlation%20Project.ipynb)
-**Description:** 
-**Skills:**
-Technology:**
-**Results:**
+### Nashville Housing Data Cleaning
+**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
+
+**Description:** This project includes the following steps: data loading, data cleaning and preprocessing.
+
+**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
+
+**Technology:** SQL Server
 
 
-### Movie Gross Earnings Analysis
-**Code:** [Python Correlation Project.ipynb](https://github.com/tiannaparris/PortfolioProjects/blob/main/Python%20Correlation%20Project.ipynb)
-**Description:** 
-**Skills:**
-Technology:**
-**Results:**
+### Covid 19 Data Exploration
+**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
+
+**Description:** This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+
+**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+**Technology:** SQL Server
+
