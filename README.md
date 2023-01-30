@@ -26,7 +26,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Nashville Housing Data Cleaning
 **Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
 
-**Description:** This project includes the following steps: data loading, data cleaning and preprocessing.
+**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
 
 **Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language)
 
@@ -36,9 +36,18 @@ In this section I will list data analytics projects briefly describing the techn
 ### Covid 19 Data Exploration
 **Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
-**Description:** This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
 **Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
+
+
+### Covid Cases by Country, 2020-2021 Data visualization
+**Tableau Public:** [`dashboard`](https://public.tableau.com/app/profile/tianna.parris/viz/CovidCasesbyCountry2020-2021/Dashboard1)
+
+**Description:** 
+**Skills:**
+**Technology:** Tableau
+**Results:** created an interactive dashboard 
 
