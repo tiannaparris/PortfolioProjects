@@ -13,7 +13,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
 - [Study Projects](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#study-projects)
   - [Tableau Vizzes](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#tableau-vizzes)
-- [Certficates](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#certificates)
+- [Certificates](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
