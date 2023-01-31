@@ -1,11 +1,16 @@
 # Tianna Parris - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry technical background and currently, I am on track to completing my degree in Data Science (MS. Data Science).I have been in 
+Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science).I have been in 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-
+- About
+- Portfolio Projects
+- ⋅⋅⋅ eggre
+- Study Projects
+- Certficates
+- Contact
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -59,3 +64,10 @@ In this section I will provide links to my github repositories containing code a
 **Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
 
 **Status:** ∞
+
+
+## Study Projects
+## Certificates
+## Contacts
+- LinkedIN:
+- Email: parristianna@yahoo.com
