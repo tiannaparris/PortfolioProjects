@@ -1,4 +1,4 @@
-# Tianna Parris - Data Analyst Portfolio
+# Tianna Parris - Junior Data Analyst Portfolio
 ## About
 Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science).I have been in 
 
@@ -6,11 +6,15 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#about)
-- Portfolio Projects
-- ⋅⋅⋅ eggre
-- Study Projects
-- Certficates
-- Contact
+- [Portfolio Projects](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#portfolio-projects)
+  - [Movie Gross Earnings Analysis](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#movie-gross-earnings-analysis)
+  - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#nashville-housing-data-cleaning)
+  - [Covid 19 Data Exploration](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#covid-19-data-exploration)
+  - [Covid Cases by Country, 2020-2021 Data visualization](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#covid-cases-by-country-2020-2021-data-visualization)
+- [Study Projects](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#study-projects)
+  - [Tableau Vizzes](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#tableau-vizzes)
+- [Certficates](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#certificates)
+- [Contact](https://github.com/tiannaparris/PortfolioProjects/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
