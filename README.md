@@ -5,7 +5,7 @@ Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- About
+- [About](https://github.com/tiannaparris/PortfolioProjects/edit/main/README.md#about)
 - Portfolio Projects
 - ⋅⋅⋅ eggre
 - Study Projects
