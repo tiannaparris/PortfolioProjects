@@ -49,8 +49,13 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percenatge; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
 **Technology:** Tableau
-**Results:** created an interactive dashboard 
+**Results:** interactive dashboard 
 
 
 ## Study Projects
 In this section I will provide links to my github repositories containing code and jupyter notebooks I created while passing online courses or was just having fun with.
+
+### Tableau Vizzes
+**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+
+**Status:** ∞
