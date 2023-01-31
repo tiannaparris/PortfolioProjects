@@ -58,7 +58,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** Tableau Public dashboard consisted of: calculated Covid-19 cases, deaths and death percenatge; chart highlighting the total deaths by continent; analytical chart showing perecentage of the population infected and estimated forecast indicator; filters by location.
 **Technology:** Tableau
-**Results:** interactive dashboard 
+**Results:** Interactive Dashboard 
 
 
 ## Study Projects
@@ -73,6 +73,7 @@ In this section I will provide links to my github repositories containing code a
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
+
 ## Contacts
-- LinkedIN: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
+- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
 - Email: parristianna@yahoo.com
